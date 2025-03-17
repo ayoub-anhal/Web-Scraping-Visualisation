@@ -122,7 +122,7 @@ The data collection process involves:
 
 4. **Data Storage**: All information is structured and stored in JSON format.
 
-## 📈 Visualization
+##  Visualization
 
 The Tableau dashboard provides multiple views:
 
@@ -139,7 +139,7 @@ The Tableau dashboard provides multiple views:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Contributors
+##  Contributors
 
 - [Ayoub Anhal](https://github.com/ayoub-anhal)
 
